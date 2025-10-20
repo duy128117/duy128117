@@ -1,8 +1,5 @@
 # Hi, I'm Nguyễn Đình Duy 👋
 
-* 🏫 [Tên Trường/Công ty của bạn] | 💻 [Lĩnh vực làm việc/học tập: Ví dụ: Software Developer] | 🧠 [Sở thích/Mục tiêu: Ví dụ: Lifelong Learner]
-
----
 
 ## 🔗 Socials:
 
