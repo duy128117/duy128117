@@ -51,19 +51,28 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activities
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duy128117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy128117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</p>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=duy128117&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duy128117&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duy128117&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=duy128117&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117" height="165" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy128117&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&bg_color=0D1117" height="165" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duy128117&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
 
 ---
 
