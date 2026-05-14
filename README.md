@@ -53,23 +53,23 @@
 
 ## 📊 GitHub Activities
 
-<!-- GitHub Trophies - Hiển thị danh hiệu -->
-<img src="https://github-profile-trophy.vercel.app/?username=duy128117&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
-<br/>
-
-<!-- Stats & Languages: Tách riêng từng thẻ để tránh lỗi hiển thị ảnh vỡ -->
+<!-- Trophies Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duy128117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=duy128117&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<!-- Thay thế GitHub Stats bằng Layout mới bền bỉ hơn -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=duy128117&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy128117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duy128117&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="175" />
 </p>
 
 <!-- Streak Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duy128117&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duy128117&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
