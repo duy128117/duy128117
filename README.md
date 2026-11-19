@@ -25,23 +25,22 @@
 
 <br/>
 
-**🎯 Đang tập trung**<br/>
-<img src="https://img.shields.io/badge/Frontend_&_UI/UX-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI--powered_Apps-A371F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT_Systems-3FB950?style=for-the-badge" />
-
-<br/><br/>
-
-**🌱 Đang học**<br/>
-<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Java_Web-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-30363D?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-
-<br/><br/>
-
-| 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML | 🔌 IoT |
-|:---:|:---:|:---:|:---:|
-| React, HTML/CSS | Java, Spring, Django | Python, TensorFlow, TFLite | Raspberry Pi |
+<table>
+  <tr>
+    <td align="center" valign="top" width="380">
+      <h3>🎯 Đang tập trung</h3>
+      <img src="https://img.shields.io/badge/Frontend_%26_UI%2FUX-58A6FF?style=flat-square&logo=react&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AI--powered_Apps-A371F7?style=flat-square&logo=tensorflow&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/IoT_Systems-3FB950?style=flat-square&logo=raspberrypi&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="380">
+      <h3>🌱 Đang học</h3>
+      <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java_Web-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/System_Design-30363D?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
