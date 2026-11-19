@@ -1,57 +1,40 @@
- <div align="center">
+<div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B65,100:00C6FF&height=200&section=header&text=NGUYEN%20DINH%20DUY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Integration&descSize=17&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Duy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20IoT&descSize=18&descAlignY=60" width="100%" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://github.com/duy128117">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+from+Vietnam;Building+Modern+Web+Applications;Exploring+AI+%26+Fullstack+Development;Always+Learning%2C+Always+Growing." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-stack+Developer+from+Vi%E1%BB%87t+Nam+%F0%9F%87%BB%F0%9F%87%B3;Building+AI-powered+web+applications;React+%E2%80%A2+Spring+%E2%80%A2+Django+%E2%80%A2+TensorFlow;Always+learning+new+technologies+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=duy128117&label=PROFILE+VIEWS&color=0077B6&style=flat-square" />
+<br/>
+
+<img src="https://img.shields.io/badge/Based_in-%C4%90%C3%A0_N%E1%BA%B5ng-58A6FF?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Student-%C4%90H_B%C3%A1ch_Khoa_%C4%90%C3%A0_N%E1%BA%B5ng-A371F7?style=flat-square&logo=educative&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_to-Internships-3FB950?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=duy128117&label=Profile+views&color=58A6FF&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Hi, I'm Duy! 👋
-
-I'm an IT student passionate about **Frontend Development, UI/UX and Artificial Intelligence**.
-
-- 🌱 Currently learning **React, ASP.NET MVC & Java Web**
-- 🤖 Interested in integrating AI into real-world applications
-- 💡 Enjoy building modern, user-friendly interfaces
-- 🚀 Always exploring new technologies and improving my skills
-- 🎯 Goal: Become a professional Fullstack Developer
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=duy128117&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9&hide_title=true" />
-
-</td>
-</tr>
-</table>
+```ts
+const duy = {
+  name: "Nguyễn Đình Duy",
+  role: "Full-stack Developer & Student",
+  location: "Đà Nẵng, Vietnam 🇻🇳",
+  focus: ["Frontend & UI/UX", "AI-powered apps", "IoT systems"],
+  learning: ["ASP.NET MVC", "Java Web", "System Design"],
+  funFact: "I build things that talk to hardware and to AI 🤖",
+};
+```
 
 <div align="center">
 
-### 🌐 Connect With Me
-
-<a href="https://www.facebook.com/inhduy.154732">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:duy12081107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/duy128117">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+| 🎨 Frontend | ⚙️ Backend | 🤖 AI / ML | 🔌 IoT |
+|:---:|:---:|:---:|:---:|
+| React, HTML/CSS | Java, Spring, Django | Python, TensorFlow, TFLite | Raspberry Pi |
 
 </div>
 
@@ -61,56 +44,65 @@ I'm an IT student passionate about **Frontend Development, UI/UX and Artificial 
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark" />
-
-### ⚡ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,django,spring,dotnet&theme=dark" />
-
-### 🗄️ Databases & Tools
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,django,spring,tensorflow,raspberrypi&theme=dark" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,docker,notion,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<a href="https://github.com/duy128117">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=duy128117&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=C9D1D9" />
-</a>
-
-<!-- TOP LANGUAGES -->
-<a href="https://github.com/duy128117">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy128117&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9" />
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img width="70%" src="https://streak-stats.demolab.com?user=duy128117&theme=transparent&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=duy128117&bg_color=0D1117&color=C9D1D9&line=00C6FF&point=FFFFFF&area=true&hide_border=true" />
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🧠 **NextStep AI** | CV & job-matching system | Python · AI · React |
+| 💼 **Prep-Hire** | Hiring-prep platform (BE / FE / AI) | Java · React · Python |
+| 🫁 **[Pneumonia Detection](https://github.com/duy128117/computer-vision-pneumonia-detection)** | Computer vision for chest X-ray diagnosis | Python · TensorFlow |
+| 👶 **Baby Sleep Tracker** | IoT sleep-monitoring system (PBL4) | Raspberry Pi · TFLite |
 
 </div>
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<a href="https://github.com/duy128117">
+  <img src="https://streak-stats.demolab.com?user=duy128117&theme=tokyonight&hide_border=true&background=0D111700&border_radius=12" alt="GitHub Streak" />
+</a>
 
-*Building today. Improving tomorrow.*
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:123B65,100:0D1117&height=120&section=footer&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/inhduy.154732">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:duy12081107@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/duy128117">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
