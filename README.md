@@ -65,14 +65,14 @@
 
 <table>
   <tr>
-    <td align="center" width="400">
+    <td align="center" valign="top" width="400">
       <h3>🧠 NextStep AI</h3>
       <p>Hệ thống phân tích CV và gợi ý công việc phù hợp</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/AI-A371F7?style=flat-square" />
     </td>
-    <td align="center" width="400">
+    <td align="center" valign="top" width="400">
       <h3>💼 Prep-Hire</h3>
       <p>Nền tảng chuẩn bị tuyển dụng gồm Backend, Frontend và AI</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -81,13 +81,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
+    <td align="center" valign="top" width="400">
       <h3>🫁 Pneumonia Detection</h3>
       <p>Ứng dụng thị giác máy tính chẩn đoán viêm phổi từ ảnh X-quang</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </td>
-    <td align="center" width="400">
+    <td align="center" valign="top" width="400">
       <h3>👶 Baby Sleep Tracker</h3>
       <p>Hệ thống IoT theo dõi giấc ngủ của trẻ (PBL4)</p>
       <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
@@ -110,11 +110,7 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/duy128117/duy128117/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duy128117&bg_color=0D1117&color=58A6FF&line=58A6FF&point_color=FFFFFF&area=true&area_color=58A6FF&hide_border=true&radius=12&title_color=58A6FF" alt="Contribution Graph" width="100%" />
 
 </div>
 
