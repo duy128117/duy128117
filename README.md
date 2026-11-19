@@ -110,7 +110,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duy128117&bg_color=0D1117&color=58A6FF&line=58A6FF&point_color=FFFFFF&area=true&area_color=58A6FF&hide_border=true&radius=12&title_color=58A6FF" alt="Contribution Graph" width="100%" />
+<a href="https://github.com/duy128117">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&height=40&lines=Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat;M%E1%BB%97i+d%C3%B2ng+code+l%C3%A0+m%E1%BB%99t+b%C6%B0%E1%BB%9Bc+ti%E1%BA%BFn+m%E1%BB%9Bi+%F0%9F%9A%80;Open+to+collaborate+on+AI+%26+IoT+projects+%F0%9F%A4%9D" alt="Motto" />
+</a>
 
 </div>
 
